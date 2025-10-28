@@ -81,15 +81,6 @@ Open the local URL in your browser to interact with the dashboard.
 
 ---
 
-## 📷 Screenshots
-*(You can add screenshots in the future)*  
-- **EDA Charts**  
-- **Folium Map View**  
-- **Model Evaluation (Confusion Matrix, ROC Curve)**  
-- **Dashboard Overview**  
-
----
-
 ## 📚 References
 SpaceX launch records compiled from public sources (Wikipedia, SpaceX data).  
 Educational use only for Coursera IBM Data Science Capstone.
